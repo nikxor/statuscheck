@@ -1,2 +1,2 @@
 # statuscheck
-Check New status API
+Check New status API 2
